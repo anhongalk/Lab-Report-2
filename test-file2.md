@@ -2,5 +2,4 @@
 
 [link](https://something.com)
 
-
-some paragraph text after the links
+//some paragraph text after the links
